@@ -28,4 +28,5 @@ def get_bio_from_image(img):
 @bot.event
 async def on_ready():
     banner.start()
+     
 bot.run('ODc1Njk1NTkzMDEwMzg5MDMy.YRZREw.H6gAIfd6TPXJ1ag_PQoqa7ikUh8')
